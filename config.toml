@@ -1,0 +1,4 @@
+baseURL = "http://kevdaup.com/"
+languageCode = "zh-CN"
+title = "Kevin Day UP!"
+theme = "PaperMod"
